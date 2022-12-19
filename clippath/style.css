@@ -1,0 +1,6 @@
+img{
+    /* clip-path: circle(30%); */
+    /* clip-path: circle(100px at 100px 100px); */
+    /* clip-path: inset(20px 20px 50px round 15px); */
+    clip-path: polygon(63% 0, 0% 20%, 30% 50%, 0 50%, 20% 100%, 50% 70%, 47% 100%, 100% 80%, 70% 50%, 100% 67%, 80% 0%, 50% 30%);
+}
